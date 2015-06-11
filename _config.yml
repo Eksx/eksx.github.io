@@ -1,3 +1,11 @@
-name: Pawel Ptaszek, Software Engineer
+highlighter: pygments
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
+permalink: /blog/:title
+
+name: Pawel Ptaszek
+description: Pawel Ptaszek's portfolio
+url: http://pptaszek.com
+
+kramdown:
+    use_coderay: true
